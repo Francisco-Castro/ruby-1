@@ -41,6 +41,7 @@ Description of the Methods used:
 	• print - method to print out a string without breakline.
 	• p - method to print out a string with details about special characters.
 	• comments - oneline # || multiline [=begin, =end] 
+	• Constants are a capitalized variables, they could change but a warning is throw.
 
 Comments:
 
