@@ -38,4 +38,5 @@ Description of the Methods used:
 
 	• puts - method to put out a string on the screen.
 	• nil - represent nothingness. Nothing to return.
-	• print - mthod to print out a string without breakline.
+	• print - method to print out a string without breakline.
+	• p - method to print out a string with details about special characters.
