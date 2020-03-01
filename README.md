@@ -40,3 +40,9 @@ Description of the Methods used:
 	• nil - represent nothingness. Nothing to return.
 	• print - method to print out a string without breakline.
 	• p - method to print out a string with details about special characters.
+	• comments - oneline # || multiline [=begin, =end] 
+
+Comments:
+
+	• pRuby is dynamic typing language.
+	
