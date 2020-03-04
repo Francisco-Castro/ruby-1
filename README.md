@@ -34,7 +34,7 @@ To run a Ruby app from **console**:
 
 ---
 
-Description of the Methods used:
+Description of commands:
 
 	• puts - method to put out a string on the screen.
 	• nil - represent nothingness. Nothing to return.
@@ -43,7 +43,13 @@ Description of the Methods used:
 	• comments - oneline # || multiline [=begin, =end] 
 	• Constants are a capitalized variables, they could change but a warning is throw.
 
+Methods:
+
+	• <string>.[length, upcase, downcase, inspect] 
+	• <int>.next
+
 Comments:
 
-	• pRuby is dynamic typing language.
+	• Ruby is a interpreted language.
+	• Ruby is dynamic typing language.
 	
