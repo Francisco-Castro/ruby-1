@@ -42,11 +42,12 @@ Description of commands:
 	• p - method to print out a string with details about special characters.
 	• comments - oneline # || multiline [=begin, =end] 
 	• Constants are a capitalized variables, they could change but a warning is throw.
+	• x, y = 5, 6  || "The result of x and y is #{x + y}" 
 
 Methods:
 
 	• <string>.[length, upcase, downcase, inspect] 
-	• <int>.next
+	• <int>.[next, to_s]
 
 Comments:
 
